@@ -1,15 +1,14 @@
 # Hi there, I'm Vimukthi
 
-- I’m currently working on a Messaging App
+- I’m currently working on [Racing Car Game](https://github.com/VMadhuranga/racing-car-game)
 - I’m currently learning :
   - Full stack web development
   - Go programming language
 - I'm interested in learning Computer Science
 - I'm familiar with :
 
-  [Python](https://www.python.org/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Git](https://git-scm.com/) | [Webpack](https://webpack.js.org/) | [Jest](https://jestjs.io/) | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-  [React](https://react.dev/) | [React Router](https://reactrouter.com/) | [Vite](https://vitejs.dev/) | [Vitest](https://vitest.dev/) | [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)  
-  [NodeJS](https://nodejs.org/en) | [ExpressJS](https://expressjs.com/) | [MongoDB](https://www.mongodb.com/) | [MongooseJS](https://mongoosejs.com/) | [Pug](https://pugjs.org/api/getting-started.html) | [Postman](https://www.postman.com/)  
+  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Go](https://go.dev/) | [Python](https://www.python.org/) | SQL | [Git](https://git-scm.com/)  
+  [React](https://react.dev/) | [NodeJS](https://nodejs.org/en) | [ExpressJS](https://expressjs.com/) | [MongoDB](https://www.mongodb.com/) | [PostgreSQL](https://www.postgresql.org/)  
   etc...
 
 <!--
